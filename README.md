@@ -4,6 +4,6 @@
 * Installation:
   * Clone this repository to your localmachine
 * Methodology:
-  Here I'm read the file using nodejs 
-  And append it to the SQLdatabase.
+  <p align="justify">Here I'm read the file using nodejs 
+  And append it to the SQLdatabase.</p>
  
